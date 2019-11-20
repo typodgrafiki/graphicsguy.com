@@ -26,5 +26,5 @@
 
 
 	</div>
-    <p>&#x24B8; 2019 graphicsguy.com - Grzegorz Kocik - Graphic freelancer, Front-end developer.</p>
+    <p>&#x24B8; 2019 graphicsbro.com - Grzegorz Kocik - Graphic freelancer, Front-end developer.</p>
 </div>

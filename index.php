@@ -9,7 +9,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Graphics Guy - Graphic freelancer / Front-end Developer</title>
+        <title>Graphics Bro - Graphic freelancer / Front-end Developer</title>
         <?php include (BASE_PATH.'assets/head.php'); ?>
         <link rel="stylesheet" type="text/css" href="css/homepage.css">
     </head>

@@ -6,7 +6,7 @@
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>Graphic Guy - Portfolio (Sincere Feelings)</title>
+        <title>Graphics Bro - Portfolio (Sincere Feelings)</title>
         <?php include (BASE_PATH.'assets/head.php'); ?>
         <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Poppins:300&amp;subset=latin-ext" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_PATH ?>css/portfolio/portfolio.css">
