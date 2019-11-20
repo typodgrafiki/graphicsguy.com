@@ -6,7 +6,7 @@
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>Typ od grafiki - Portfolio (Premium Sound)</title>
+        <title>Graphic Guy - Portfolio (Premium Sound)</title>
         <?php include (BASE_PATH.'assets/head.php'); ?>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_PATH ?>css/portfolio/portfolio.css">
         <style type="text/css">
@@ -30,7 +30,7 @@
                 <div class="description">
                     <div class="container text-center">
                         <h1>Premium Sound</h1>
-                        <p>Szablon sklepu internetowego zajmującego się sprzedażą systemów audio dla domu. Projekt jest redesignem starego sklepu internetowego. Pozostawiony został kolor czarny jako dominujący, kolor contentu oraz zdjęć został zmieniony na biały dla ułatwienia oraz przyspieszenia pracy osoby zarządzającej sklepem. Osiągnęliśmy indywidualny charakter szablonu dzięki esymetrycznym elementom na stronie głównej witryny. Projekt zoptymalizowany pod silnik SOTE.</p>
+                        <p>An online store template that sells home audio systems. The project is a redesign of an old online store. The black color was left as the dominant color, the content and photos were changed to white to facilitate and speed up the work of the shop manager. We have achieved the individual character of the template thanks to the asymmetrical elements on the main page of the site. Design optimized for the SOTESHOP software.</p>
                     </div>
                 </div>
 
@@ -57,7 +57,7 @@
                 <img class="img-responsive hidden-md" src="<?php echo BASE_PATH ?>images/portfolio/premium-sound/mobile/premium-sound_10_xs.jpg" width="900" height="468" alt="PS10">
             </div>
             <div class="back-section">
-                <a class="btn btn-primary" href="/portfolio#premium-sound">Powrót<span></span></a>
+                <a class="btn btn-primary" href="/portfolio#premium-sound">Back<span></span></a>
            </div>
         </div>
     </body>

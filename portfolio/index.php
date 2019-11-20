@@ -7,7 +7,7 @@
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>Typ od grafiki - Portfolio</title>
+        <title>Graphic Guy - Portfolio</title>
         <?php include (BASE_PATH.'assets/head.php'); ?>
     </head>
     <body>
@@ -21,10 +21,10 @@
                 </div>
                 <div class="content animate right-animate">    
                     <div class="flex2">
-                        <h2 class="name">Pupil <small>- projekt sklepu</small></h2>
-                        <p>Projekt nowo powstającego sklepu zoologicznego Pupil. Założeniem projektu było wyróżnienie się spośród szablonów "simple white", jakimi dysponuje konkurencja. Warunkiem klienta było umieszczenie zdjęć produktowych na białym tle, stworzenie intuicyjnego menu oraz zaprojektowanie takich sekcji jak kategorie, nowości, promocje, o firmie. Projekt zoptymalizowany pod silnik SOTE.</p>
+                        <h2 class="name">Pupil <small>- ecommerce design</small></h2>
+                        <p>Design of the newly created Pupil pet store. The assumption of the project was to stand out from the "simple white" templates available to the competition. The condition of the customer was to place product photos on a white background, create an intuitive menu and design sections such as categories, news, promotions, about the company. Design optimized for the SOTE software.</p>
                         <p>
-                            <a href="pupil" class="btn btn-primary">Zobacz<span></span></a>
+                            <a href="pupil" class="btn btn-primary">See<span></span></a>
                         </p>
                     </div>    
                 </div>
@@ -36,9 +36,9 @@
                 </div>
                 <div class="content animate right-animate">    
                     <div class="flex2">
-                        <h2 class="name">Rosenthal <small>- szablon sklepu</small></h2>
-                        <p>Szablon sklepu internetowego marki produkującej porcelanę z 25-letnim doświadczeniem. Projekt zorientowany na elegancję oraz przejrzystość elementów na stronie z układem kafelkowym, dzięki czemu klient ma szybki dostęp do najważniejszych działów strony. Projekt zoptymalizowany pod silnik SOTE.</p>
-                        <p><a href="rosenthal" class="btn btn-primary">Zobacz<span></span></a></p>
+                        <h2 class="name">Rosenthal <small>- ecommerce design & templates</small></h2>
+                        <p>An online store template for a porcelain brand with 25 years of experience. Design focused on elegance and transparency of elements on the site with a tiled layout, so that the customer has quick access to the most important sections of the site. Design optimized for the SOTE software.</p>
+                        <p><a href="rosenthal" class="btn btn-primary">See<span></span></a></p>
                     </div>    
                 </div>
             </div>
@@ -49,9 +49,9 @@
                 </div>
                 <div class="content animate right-animate">    
                     <div class="flex2">
-                        <h2 class="name">GEO SOMATIC <small>- krój pisma</small></h2>
-                        <p>Geo Somatic to krój pisma bezszeryfowy z zastosowaniem litery jednoelementowej. Inspiracją do powstania fontu była geometria ludzkiego układu krążenia, czyli połączenie różnorodnej geometryczności z liniami o jednakowej grubości. Dzięki temu krój pisma posiada charakterystyczne dla siebie elementy. Czcionka składa się z minuskuł, a forma pozwala na instalację w systemie operacyjnym lub wykorzystanie na stronie internetowej.</p>
-                        <p><a href="geo-somatic" class="btn btn-primary">Zobacz<span></span></a></p>
+                        <h2 class="name">GEO SOMATIC <small>- typeface</small></h2>
+                        <p>Geo Somatic is a sans serif typeface using a one-letter letter. The inspiration for the font was the geometry of the human circulatory system, i.e. a combination of various geometries with lines of equal thickness. Thanks to this, the typeface has its characteristic elements. The font consists of a minus, and the form allows installation in the operating system or use on a website.</p>
+                        <p><a href="geo-somatic" class="btn btn-primary">See<span></span></a></p>
                     </div>    
                 </div>
             </div>
@@ -62,9 +62,9 @@
                 </div>
                 <div class="content animate right-animate">    
                     <div class="flex2">
-                        <h2 class="name">Mountain Bag <small>- projekt sklepu</small></h2>
-                        <p>Projekt sklepu internetowego nowo powstającej marki zajmującej się produkcją plecaków turystycznych i górskich. Sklep zorientowany na małą ilość produktów oraz szeroką informację o produkcie, jaką otrzymuje klient. W projekcie skupiamy się na produkcie, kategorie odgrywają drugorzędną rolę. Ważnym elementem są również właściwości produktów wyrażone w postaci infografik.</p>
-                        <p><a href="mountain" class="btn btn-primary">Zobacz<span></span></a></p>
+                        <h2 class="name">Mountain Bag <small>- ecommerce design</small></h2>
+                        <p>Design of the online store of a newly emerging brand dealing in the production of tourist and mountain rucksacks. A store oriented on a small number of products and wide product information that the customer receives. In the project, we focus on the product, categories play a secondary role. Product properties expressed in the form of infographics are also an important element.</p>
+                        <p><a href="mountain" class="btn btn-primary">See<span></span></a></p>
                     </div>    
                 </div>
             </div>
@@ -75,9 +75,9 @@
                 </div>
                 <div class="content animate right-animate">    
                     <div class="flex2">
-                        <h2 class="name">Sincere feelings <small>- nowa marka wina</small></h2>
-                        <p>Nowa marka wina zwracająca uwagę konsumenta na emocje, jakie może nieść za sobą spożywanie tego trunku. Założeniem projektu było stworzenie wspólnego systemu identyfikacji wizualnej poprzez zaprojektowanie loga wraz z księgą znaków, zbudowanie koncepcji opakowania oraz elementów promocyjnych. Identyfikacja ma na celu przedstawienie produktu, który odróżnia się na rynku podejściem do wina i jego indywidualnych wartości. Ukrytym przekazem jest sprzedawanie wina nie jako napoju, lecz wartości i emocji, jakie może wywoływać.</p>
-                        <p><a href="sincere-feelings" class="btn btn-primary">Zobacz<span></span></a></p>
+                        <h2 class="name">Sincere feelings <small>- new wine brand</small></h2>
+                        <p>A new wine brand that draws the consumer's attention to the emotions that this drink may bring. The assumption of the project was to create a common visual identity system by designing a logo with the book of signs, building the concept of packaging and promotional elements. Identification aims to present a product that distinguishes itself on the market by its approach to wine and its individual values. The hidden message is selling wine not as a drink but as values and emotions that it can evoke.</p>
+                        <p><a href="sincere-feelings" class="btn btn-primary">See<span></span></a></p>
                     </div>    
                 </div>
             </div>
@@ -88,9 +88,9 @@
                 </div>
                 <div class="content animate right-animate">
                     <div class="flex2">
-                        <h2 class="name">Premium Sound <small>- szablon sklepu</small></h2>
-                        <p>Szablon sklepu internetowego zajmującego się sprzedażą systemów audio dla domu. Projekt jest redesignem starego sklepu internetowego. Pozostawiony został kolor czarny jako dominujący. Kolor contentu oraz zdjęć został zmieniony na biały dla ułatwienia oraz przyspieszenia pracy osoby zarządzającej sklepem. Osiągnęliśmy indywidualny charakter szablonu dzięki symetrycznym elementom na stronie głównej witryny. Projekt zoptymalizowany pod silnik SOTE.</p>
-                        <p><a href="premium-sound" class="btn btn-primary">Zobacz<span></span></a></p>
+                        <h2 class="name">Premium Sound <small>- ecommerce design & templates</small></h2>
+                        <p>An online store template that sells home audio systems. The project is a redesign of an old online store. The black color was left dominant. The color of the content and photos has been changed to white to facilitate and speed up the work of the shop manager. We have achieved the individual character of the template thanks to symmetrical elements on the main page of the website. Design optimized for the SOTE software.</p>
+                        <p><a href="premium-sound" class="btn btn-primary">See<span></span></a></p>
                     </div>    
                 </div>
             </div>
@@ -102,8 +102,8 @@
                 <div class="content animate right-animate">
                     <div class="flex2">
                         <h2 class="name">Bułki bez bibułki <small>- blog</small></h2>
-                        <p>Projekt oraz wdrożenie szablonu bloga kulinarnego. Prace miały na celu zaprojektowanie loga oraz witryny internetowej. Strona startowa to nacisk na zdjęcia, natomiast na podstronach wpisów skupiamy się na treści, a zdjęcia to tylko dodatek. Menu po prawej stronie zostało usytuowane w taki sposób, aby uwaga użytkownika zaczynała się od treści strony po lewej. Blog oparty na oprogramowaniu Wordpress.</p>
-                        <p><a href="bulkibezbibulki" class="btn btn-primary">Zobacz<span></span></a></p>
+                        <p>Design and implementation of a culinary blog template. The work was designed to design a logo and website. The start page is focus on photos, while on the subpages of entries we focus on content, and photos are just an addition. The menu on the right has been positioned in such a way that the user's attention begins with the content of the page on the left. Blog based on Wordpress software.</p>
+                        <p><a href="bulkibezbibulki" class="btn btn-primary">See<span></span></a></p>
                     </div>    
                 </div>
             </div>
@@ -114,9 +114,9 @@
                 </div>
                 <div class="content animate right-animate">    
                     <div class="flex2">
-                        <h2 class="name">Audio-Mix <small>- szablon sklepu</small></h2>
-                        <p>Szablon witryny internetowej zorientowanej na sprzedaż systemów AUDIO/RTV. Założeniem projektu było zwrócenie uwagi użytkownika na system BILD5 oraz jasne zaprezentowanie wszystkich sekcji na stronie. Kolorystyka projektu miała opierać się o odcienie szarości, nawiązując do elegancji i technologii.</p>
-                        <p><a href="audio-mix" class="btn btn-primary">Zobacz<span></span></a></p>
+                        <h2 class="name">Audio-Mix <small>- ecommerce design & templates</small></h2>
+                        <p>Website template for sales oriented AUDIO / RTV systems. The assumption of the project was to draw the user's attention to the BILD5 system and clearly present all sections on the site. The project's colors were to be based on shades of gray, referring to elegance and technology.</p>
+                        <p><a href="audio-mix" class="btn btn-primary">See<span></span></a></p>
                     </div>    
                 </div>
             </div>

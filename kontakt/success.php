@@ -7,7 +7,7 @@
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>Kontakt - Typ od grafiki</title>
+        <title>Contact - Graphic Guy</title>
         <meta name="robots" content="noindex">
         <?php include (BASE_PATH.'assets/head.php'); ?>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_PATH ?>css/contact.css">
@@ -17,15 +17,15 @@
         <div id="contact" class="section container success-site">            
             <div class="text-center">
                 <h1 class="title">
-                    Wiadomość wysłana. Dziękuję!
+                    Message sent. Thank you!
                 </h1>
                 <p class="subtitle">
-                    Niedługo skontaktuję się z Tobą.
+                    I will contact you shortly.
                 </p>
             </div>
             
             <div class="text-center">
-                <a href="../" type="submit" id="submit" class="btn btn-success">Powrót na stronę główną<span></span></a>
+                <a href="../" type="submit" id="submit" class="btn btn-success">Back to the main page.<span></span></a>
             </div>
         </div>
     </body>

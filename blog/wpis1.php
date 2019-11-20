@@ -7,7 +7,7 @@
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>Typ od grafiki - Pierwszy wpis</title>
+        <title>Graphic Guy - Pierwszy wpis</title>
         <?php include (BASE_PATH.'assets/head.php'); ?>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_PATH ?>css/blog.css">
     </head>

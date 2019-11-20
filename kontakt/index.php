@@ -7,7 +7,7 @@
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>Kontakt - Typ od grafiki</title>
+        <title>Contact - Graphic Guy</title>
         <?php include (BASE_PATH.'assets/head.php'); ?>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_PATH ?>css/contact.css">
     </head>
@@ -20,32 +20,32 @@
                         <img class="img-profile img-responsive" src="../images/my_face.jpg">
                     </p>
                     <h1 class="title">
-                        Kontakt
+                        Contact
                     </h1>
                     <p class="subtitle">
-                        Dziękuję za poświęcenie mi czasu. Jak mogę Ci dzisiaj pomóc?
+                        Thank you for taking my time. How can I help you today?
                     </p>
                 </div>
                 <div class="row form-content">
                     <div class="col-xs-12 col-md-6 form-group">
-                        <label for="name">Imię i nazwisko</label>
+                        <label for="name">Your Name</label>
                         <div class="help-block with-errors"></div>
-                        <input type="text" id="name" class="form-control" placeholder="Jan Kowalski" required data-error="Wpisz swoje imię">
+                        <input type="text" id="name" class="form-control" placeholder="John Jonson" required data-error="Enter your name">
                     </div>
                     <div class="col-xs-12 col-md-6 form-group">
                         <label for="email">Email</label>
                         <div class="help-block with-errors"></div>
-                        <input type="email" class="email form-control" id="email" placeholder="email@domain.com" required data-error="Wpisz swój email">
+                        <input type="email" class="email form-control" id="email" placeholder="email@domain.com" required data-error="Enter your email">
                         
                     </div>
                     <div class="col-xs-12 col-md-12 form-group">
-                        <label for="message">Wiadomość</label>
+                        <label for="message">Message</label>
                         <div class="help-block with-errors"></div>
-                        <textarea id="message" rows="7" placeholder="Cześć, piszę do Ciebie..." class="form-control" required data-error="Wpisz treść wiadomości"></textarea>
+                        <textarea id="message" rows="7" placeholder="Hi, I'm writing to you ..." class="form-control" required data-error="Enter the message"></textarea>
                     </div>
                 </div>
                 <div class="text-center">
-                    <button type="submit" id="submit" class="btn btn-success">Wyślij wiadomość<span></span></button>
+                    <button type="submit" id="submit" class="btn btn-success">Send Message<span></span></button>
                     <div id="msgSubmit"></div>
                 </div>
             </form>

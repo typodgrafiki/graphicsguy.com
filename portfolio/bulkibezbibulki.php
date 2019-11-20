@@ -6,7 +6,7 @@
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>Typ od grafiki - Portfolio (Bułki bez bibułki)</title>
+        <title>Graphic Guy - Portfolio (Bułki bez bibułki)</title>
         <?php include (BASE_PATH.'assets/head.php'); ?>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_PATH ?>css/portfolio/portfolio.css">
         <style type="text/css">
@@ -31,7 +31,7 @@
                 <div class="description">
                     <div class="container text-center">
                         <h1>Bułki bez bibułki</h1>
-                        <p>Projekt oraz wdrożenie szablonu bloga kulinarnego. Prace miały na celu zaprojektowanie loga oraz witryny internetowej. Strona startowa to nacisk na zdjęcia, natomiast na podstronach wpisów skupiamy się na treści, a zdjęcia to tylko dodatek. Menu po prawej stronie zostało usytuowane w taki sposób, aby uwaga użytkownika zaczynała się od treści strony po lewej. Blog oparty na oprogramowaniu Wordpress.</p>
+                        <p>Design and implementation of a culinary blog template. The work was designed to design a logo and website. The start page is focus on photos, while on the subpages of entries we focus on content, and photos are just an addition. The menu on the right has been positioned in such a way that the user's attention begins with the content of the page on the left. Blog based on Wordpress software.</p>
                     </div>
                 </div>
 
@@ -64,7 +64,7 @@
 
             </div>
             <div class="back-section">
-                <a class="btn btn-primary" href="/portfolio#bulkibezbibulki">Powrót<span></span></a>
+                <a class="btn btn-primary" href="/portfolio#bulkibezbibulki">Back<span></span></a>
            </div>
         </div>
     </body>

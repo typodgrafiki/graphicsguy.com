@@ -11,9 +11,9 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
 <meta name="author" content="Grzegorz Kocik" />
-<meta name="description" content="Grafik freelancer, Front-end Developer, projektant stron intermetowych. Potrzebujesz webdesignera, który stworzy intuicyjną, ładną, oraz używalną stronę intentetową? Zapraszam do kontaktu." />
+<meta name="description" content="Freelancer graphic designer, Front-end Developer, web designer. Do you need a webdesigner that will create an intuitive, nice and usable website? I invite you to contact me." />
 <meta name="keywords"  content="
-front-end developer, kodowanie stron internetowych, html, css, strona internetowa, psd to html, grafik, web developer, web designer, typodgrafiki, Grzegorz Kocik, frontend developer, freelancer" />
+front-end developer, website coding, html, css, website, psd to html, graphic, web developer, web designer, Grzegorz Kocik, frontend developer, freelancer" />
 <link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="favicon/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="favicon/apple-icon-72x72.png">

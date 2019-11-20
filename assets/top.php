@@ -6,7 +6,7 @@
 	if ($homepage == 1) {
 	?>
 		<a href="kontakt" id="topContactButton" class="btn btn-default pull-right">
-			Napisz do mnie
+			Write to me
 			<span></span>
 		</a>
 
@@ -18,7 +18,7 @@
 
 	<?php } else { ?>
 		<a href="../kontakt" id="topContactButton" class="btn btn-default pull-right">
-			Napisz do mnie
+			Write to me
 			<span></span>
 		</a>
 	<?php } ?>

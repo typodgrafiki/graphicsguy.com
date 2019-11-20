@@ -6,7 +6,7 @@
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>Typ od grafiki - Portfolio (Geo Somatic)</title>
+        <title>Graphic Guy - Portfolio (Geo Somatic)</title>
         <?php include (BASE_PATH.'assets/head.php'); ?>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_PATH ?>css/portfolio/portfolio.css">
         <style type="text/css">
@@ -45,7 +45,7 @@
                 <div class="description">
                     <div class="container text-center">
                         <h1 class="hidden">Geo Somatic</h1>
-                        <p>Geo Somatic to krój pisma bezszeryfowy z zastosowaniem litery jednoelementowej .Inspiracją do powstania fontu była geometria ludzkiego układu krążenia. Połączenie różnorodnej geometryczności z liniami o jednakowej grubości. Dzięki temu krój pisma posiada charakterystyczne dla siebie elementy. Czcionka składa się z minuskuł a forma pozwala na instalację w systemie operacyjnym lub wykorzystanie na stronie internetowej.</p>
+                        <p>Geo Somatic is a sans serif typeface using a one-letter letter. The inspiration for the font was the geometry of the human circulatory system. Combination of various geometries with lines of equal thickness. Thanks to this, the typeface has its characteristic elements. The font consists of a minus and the form allows installation in the operating system or use on a website.</p>
                     </div>
                 </div>
                 <img class="img-responsive visible-md" src="<?php echo BASE_PATH ?>images/portfolio/geo-somatic/font1_02.jpg" width="1900" height="1346" alt="GS2">
@@ -61,7 +61,7 @@
                 <img class="img-responsive hidden-md" src="<?php echo BASE_PATH ?>images/portfolio/geo-somatic/mobile/font1_06_xs.jpg" width="900" height="927" alt="GS6">
             </div>
             <div class="back-section">
-                <a class="btn btn-primary" href="/portfolio#geo-somatic">Powrót<span></span></a>
+                <a class="btn btn-primary" href="/portfolio#geo-somatic">Back<span></span></a>
            </div>
         </div>
     </body>

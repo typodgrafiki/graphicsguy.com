@@ -6,7 +6,7 @@
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>Typ od grafiki - Portfolio (Audio Mix)</title>
+        <title>Graphic Guy - Portfolio (Audio Mix)</title>
         <?php include (BASE_PATH.'assets/head.php'); ?>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_PATH ?>css/portfolio/portfolio.css">
         <style type="text/css">
@@ -32,7 +32,7 @@
                 <div class="description">
                     <div class="container text-center">
                         <h1>Audio Mix</h1>
-                        <p>Szablon witryny internetowej zorientowanej na sprzedaż systemów AUDIO/RTV. Założeniem projektu było zwrócenie uwagi użytkownika na system BILD5 oraz jasne zaprezentowanie wszystkich sekcji na stronie. Kolorystyka projektu miała opierać się o odcienie szarości nawiązując do elegancji i technologii.</p>
+                        <p>Website template for sales oriented AUDIO / RTV systems. The assumption of the project was to draw the user's attention to the BILD5 system and clearly present all sections on the site. The project's colors were to be based on shades of gray referring to elegance and technology.</p>
                     </div>
                 </div>
                 <img class="img-responsive visible-md" src="<?php echo BASE_PATH ?>images/portfolio/audio-mix/audio-mix_01.jpg" width="1900" height="848" alt="AM1">
@@ -60,7 +60,7 @@
                 <img class="img-responsive hidden-md" src="<?php echo BASE_PATH ?>images/portfolio/audio-mix/mobile/audio-mix_11_xs.jpg" width="900" height="116" alt="AM11">
             </div>
             <div class="back-section">
-                <a class="btn btn-primary" href="/portfolio#audio-mix">Powrót<span></span></a>
+                <a class="btn btn-primary" href="/portfolio#audio-mix">Back<span></span></a>
            </div>
         </div>
     </body>

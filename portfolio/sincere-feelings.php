@@ -6,7 +6,7 @@
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>Typ od grafiki - Portfolio (Sincere Feelings)</title>
+        <title>Graphic Guy - Portfolio (Sincere Feelings)</title>
         <?php include (BASE_PATH.'assets/head.php'); ?>
         <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Poppins:300&amp;subset=latin-ext" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_PATH ?>css/portfolio/portfolio.css">
@@ -24,8 +24,8 @@
                 <p class="animate left-animate">
                     <img class="img-responsive" src="<?php echo BASE_PATH ?>images/portfolio/sincere-feelings/sf_02.png" width="570" height="393" alt="SF2">
                 </p>
-                <p class="animate left-animate">Logo „Sincere feelings” jest maksymalnie proste, oraz bezpośrednio powiązane z czytelnością. Sygnet uproszczony, pozbawiony szczegółów zyskuje na sile odbioru, ponieważ logo z małą ilością szczegółów łatwiej zapamiętać. Ważnym elementem jest jego ukryta symbolika. Sygnet w swojej budowie zawiera zarówno litery SF tworzące skrót pełnej nazwy „Sincere feelin-gs“, jak i znak serca mówiący o wyjątkowości marki i skupieniu się firmy na doznaniach, odczuciach i emocjach, z jakimi będziemy kojarzyć markę.</p>
-                <p class="animate right-animate">Założeniem logotypu jest reprezentowanie spokoju i eleganckiej formy. Dlatego w liternictwie został użyty pastelowy kolor w odcieniu brązu. Natomiast krój pisma dla nadania eleganckiego i nieco prestiżowego charakteru to krój dwuelementowy, szeryfowy.</p>
+                <p class="animate left-animate">The "Sincere feelings" logo is extremely simple and directly linked to readability. A simplified signet ring, devoid of details, is gaining in strength because the logo with a small amount of details is easier to remember. An important element is its hidden symbolism. The signet in its construction contains both the letters SF forming the abbreviation of the full name "Sincere feelin-gs", as well as a heart sign talking about the uniqueness of the brand and the company's focus on the sensations, feelings and emotions with which the brand will be associated.</p>
+                <p class="animate right-animate">The premise of the logotype is to represent calm and elegant form. That is why in pastel color a shade of brown was used. However, the typeface to give an elegant and slightly prestigious character is a two-element, serif typeface.</p>
             </div>
             <div class="bg-gray logo2 clearfix">
                 <div class="container">
@@ -51,52 +51,52 @@
             </div>
             <div class="bg-gray marks">
                 <div class="container">
-                    <h2 class="animate left-animate">Znaki produktowe</h2>
-                    <p class="animate right-animate">Każde wino posiada swoje oznaczenia w postaci grafiki oraz podpisu co odróżnia je od siebie.</p>
-                    <p class="animate left-animate">Każda z grafik ma swój charakter odpowiadający wybranemu smakowi. Styl odzwierciedla niemożność uchwycenia emocji i jej efemeryczność. Tak jak w przypadku uczuć nie są one czymś fizycznym i dla każdego człowieka mogą być odczuwane nieco inaczej.</p>
+                    <h2 class="animate left-animate">Product marks</h2>
+                    <p class="animate right-animate">Each wine has its markings in the form of graphics and captions, which distinguishes them from each other.</p>
+                    <p class="animate left-animate">Each graphic has its own character corresponding to the selected taste. The style reflects the inability to capture emotion and its ephemerality. As in the case of feelings, they are not something physical and can be felt a little differently for each person.</p>
                     <div class="row-mark">
                         <div class="relative inline-block animate left-animate">
-                            <h4>Miłość</h4>
+                            <h4>Love</h4>
                             <img class="img-responsive" src="<?php echo BASE_PATH ?>images/portfolio/sincere-feelings/sf_08.png" width="189" height="147" alt="SF8">    
                         </div>
                         <p class="animate right-animate">
-                            Grafika przedstawiająca jest najbardziej spokojna, obłe kształty kojarzą się ze spokojem, względną stabilnością uczuć. Forma okręgu symbolizuje nieprzerwanie emocji i konsekwen-cję. Delikatne przerwanie linii mówi o możliwej represji i niechcianym wygaśnięciu uczucia.
+                            Graphic depicting is the most calm, rounded shapes are associated with calmness, relative stability of feelings. The form of the circle symbolizes incessantly emotions and consistency. A delicate break in the line speaks of possible repression and unwanted extinction of the feeling.
                         </p>
                     </div>
                     <div class="row-mark">
                         <div class="relative inline-block animate left-animate">
-                            <h4>Namiętność</h4>
+                            <h4>Passion</h4>
                             <img class="img-responsive" src="<?php echo BASE_PATH ?>images/portfolio/sincere-feelings/sf_09.png" width="189" height="159" alt="SF9">
                         </div>
                         <p class="animate right-animate">
-                            Grafika symbolizuje bliskość oraz nieśmiały kontakt. Gra zmysłów jest tutaj ważnym elementem dlatego niedopowiedziana „bliskość” gra tutaj kluczową rolę.
+                            Graphics symbolize closeness and shy contact. The play of the senses is an important element here, so the unsaid "closeness" plays a key role here.
                         </p>
                     </div>
                     <div class="row-mark">
                         <div class="relative inline-block animate left-animate">
-                            <h4>Dotyk</h4>
+                            <h4>Touch</h4>
                             <img class="img-responsive" src="<?php echo BASE_PATH ?>images/portfolio/sincere-feelings/sf_10.png" width="189" height="162" alt="SF10">
                         </div>
                         <p class="animate right-animate">
-                            Grafika symbolizuje połączenie się dwóch elementów, dotyk oraz zaplecenie się palców dłoni. Kontakt dwóch elementów stanowią dwie przecinające się linie. Jest to jedyna grafika gdzie dotyk oznaczany jest dosłownie poprzez nakładanie się na siebie dwóch lini (zaple-cione palce).
+                            Graphics symbolize the combination of two elements, touch and braiding of the fingers of the hand. The contact of two elements are two intersecting lines. This is the only graphic where touch is literally marked by overlapping two lines (fingers full).
                         </p>
                     </div>
                     <div class="row-mark">
                         <div class="relative inline-block animate left-animate">
-                            <h4>Pocałunek</h4>
+                            <h4>Kiss</h4>
                             <img class="img-responsive" src="<?php echo BASE_PATH ?>images/portfolio/sincere-feelings/sf_11.png" width="189" height="133" alt="SF11">
                         </div>
                         <p class="animate right-animate">
-                            Grafika odzwierciedla zbliżenie się ust ku sobie. Obły kształt natomiast mówi nam o delikatności, spokoju i cieple odczuwanym podczas pocałunku. Prowokująca infor-macja, jaka jest przekazywana to również zawiłość ludzkich języków podczas pocałunku.
+                            The graphics reflect the lips getting closer together. The oval shape, on the other hand, tells us about the tenderness, peace and warmth of a kiss. The provocative information that is transmitted is also the complexity of human languages when kissing.
                         </p>
                     </div>
                     <div class="row-mark">
                         <div class="relative inline-block animate left-animate">
-                            <h4>Pożądanie</h4>
+                            <h4>Desire</h4>
                             <img class="img-responsive" src="<?php echo BASE_PATH ?>images/portfolio/sincere-feelings/sf_12.png" width="189" height="144" alt="SF12">
                         </div>
                         <p class="animate right-animate">
-                            Grafika stwarza wrażenie „elektryzującej”, jej celem jest przedstawienie emocji jako nie-okiełznanej, będącą niejako poza naszą kontrolą.
+                            Graphics create the impression of "electrifying", its purpose is to present emotion as uncontrollable, which is somewhat beyond our control.
                         </p>
                     </div>
                 </div>
@@ -130,7 +130,7 @@
                 </div>
             </div>
            <div class="bg-gray">
-                <a class="btn btn-primary" href="/portfolio#sincere-feelings">Powrót<span></span></a>
+                <a class="btn btn-primary" href="/portfolio#sincere-feelings">Back<span></span></a>
            </div>
         </div>
         <script src="<?php echo BASE_PATH ?>js/scroll.js"></script>

@@ -6,7 +6,7 @@
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>Typ od grafiki - Portfolio (Pupil)</title>
+        <title>Graphic Guy - Portfolio (Pupil)</title>
         <?php include (BASE_PATH.'assets/head.php'); ?>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_PATH ?>css/portfolio/portfolio.css">
         <style type="text/css">
@@ -30,7 +30,7 @@
                 <div class="description">
                     <div class="container text-center">
                         <h1>Pupil</h1>
-                        <p>Projekt nowo powstającego sklepu zoologicznego Pupil. Założeniem projektu było wyróżnienie sie spośród szablonów "simple white" jakimi dysponuje konkurencja. Warunkiem klienta było umieszczenie zdjęć produktowych na białym tle, stworzenie intuicyjnego menu oraz zaprojektowanie takich seksji jak kategorie, nowości, promocje, o firmie. Projekt zoptymalizowany pod silnik SOTE.</p>
+                        <p>Design of the newly created Pupil pet store. The assumption of the project was to stand out from the "simple white" templates available to the competition. The condition of the customer was to place product photos on a white background, create an intuitive menu and design sexes such as categories, news, promotions, about the company. Design optimized for the SOTE software.</p>
                     </div>
                 </div>
                 <img class="img-responsive visible-md" src="<?php echo BASE_PATH ?>images/portfolio/pupil/pupil_01.jpg" width="1900" height="1281" alt="Pupil1">
@@ -76,7 +76,7 @@
                 <img class="img-responsive hidden-md" src="<?php echo BASE_PATH ?>images/portfolio/pupil/mobile/pupil_20_xs.jpg" width="900" height="714" alt="Pupil20">
             </div>
             <div class="back-section">
-                <a class="btn btn-primary" href="/portfolio#pupil">Powrót<span></span></a>
+                <a class="btn btn-primary" href="/portfolio#pupil">Back<span></span></a>
            </div>
         </div>
     </body>

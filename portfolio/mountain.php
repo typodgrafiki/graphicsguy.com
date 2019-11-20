@@ -6,7 +6,7 @@
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>Typ od grafiki - Portfolio (Mountain Bag)</title>
+        <title>Graphic Guy - Portfolio (Mountain Bag)</title>
         <?php include (BASE_PATH.'assets/head.php'); ?>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_PATH ?>css/portfolio/portfolio.css">
         <style type="text/css">
@@ -36,7 +36,7 @@
                 <div class="description">
                     <div class="container text-center">
                         <h1>Mountain Bag</h1>
-                        <p>Szablon sklepu internetowego zajmującego się sprzedażą plecaków wysokogórskich. Założeniem projektu jest nowoczesność oraz zorientowanie na prezentację pojedynczych produktów wraz z ich specyfikacją. Mała ilość elementów na stronie pozwala użytkownikowi z łatwością odnaleźć się w specyfikacji produktu. Projekt zoptymalizowany pod silnik SOTE.</p>
+                        <p>Template of an online store dealing in the sale of alpine backpacks. The assumption of the project is modernity and orientation towards the presentation of individual products along with their specifications. The small number of elements on the page allows the user to easily find the product specification. Design optimized for the SOTESHOP software.</p>
                     </div>
                 </div>
 
@@ -73,7 +73,7 @@
 
             </div>
             <div class="back-section">
-                <a class="btn btn-primary" href="/portfolio#mountain">Powrót<span></span></a>
+                <a class="btn btn-primary" href="/portfolio#mountain">Back<span></span></a>
            </div>
         </div>
     </body>

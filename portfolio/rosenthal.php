@@ -6,7 +6,7 @@
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>Typ od grafiki - Portfolio (Rosenthal)</title>
+        <title>Graphic Guy - Portfolio (Rosenthal)</title>
         <?php include (BASE_PATH.'assets/head.php'); ?>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_PATH ?>css/portfolio/portfolio.css">
         <style type="text/css">
@@ -38,7 +38,7 @@
                 <div class="description">
                     <div class="container text-center">
                         <h1>Rosenthal</h1>
-                        <p>Szablon sklepu internetowego marki produkującej porcelanę z 25-cio letnim doświadczeniem. Projekt zorientowany na elegancję oraz przejrzystość elementów na stronie z układem kafelkowym dzięki czemu klient posiada szybki dostęp do najważniejszych działow strony. Projekt zoptymalizowany pod silnik SOTE.</p>
+                        <p>Template for the online store of a porcelain brand with 25 years of experience. Design focused on the elegance and transparency of elements on the site with a tiled layout so that the customer has quick access to the most important sections of the site. Design optimized for the SOTE software.</p>
                     </div>
                 </div>
                 <img class="img-responsive visible-md" src="<?php echo BASE_PATH ?>images/portfolio/rosenthal/rosenthal_01.jpg" width="1900" height="974" alt="Rosenthal1">
@@ -67,7 +67,7 @@
                 <img class="img-responsive hidden-md" src="<?php echo BASE_PATH ?>images/portfolio/rosenthal/mobile/rosenthal_11_xs.jpg" width="900" height="578" alt="Rosenthal11">
                 <img class="img-responsive hidden-md" src="<?php echo BASE_PATH ?>images/portfolio/rosenthal/mobile/rosenthal_12_xs.jpg" width="900" height="107" alt="Rosenthal12">
                 <div class="back-section">
-                    <a class="btn btn-primary" href="/portfolio#rosenthal">Powrót<span></span></a>
+                    <a class="btn btn-primary" href="/portfolio#rosenthal">Back<span></span></a>
                </div>
             </div>
         </div>
