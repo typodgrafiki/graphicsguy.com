@@ -1,6 +1,6 @@
 <header>
 	<div id="logo" class="pull-left">
-		<a href="/"><img src="<?php echo BASE_PATH ?>images/logo.png" width="171" height="41" alt="Logo"></a>
+		<a href="/"><img src="<?php echo BASE_PATH ?>images/logo.png" width="162" height="41" alt="Logo"></a>
 	</div>
 	<?php
 	if ($homepage == 1) {
